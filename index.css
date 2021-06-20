@@ -1,0 +1,60 @@
+
+.navbar-fixed {position: absolute;z-index:999999999;}
+.display-4{
+  color: aqua;
+  opacity: 0.75;
+  font-weight: 100;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+  background-color: white;
+}
+body {
+  margin-top: 20px;
+}
+
+
+:root {
+    
+}
+body {
+    background-color:black
+}
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+}
+
+
+
+
+
+.copyright{
+  text-align: center;
+  font-size: 25px;
+}
